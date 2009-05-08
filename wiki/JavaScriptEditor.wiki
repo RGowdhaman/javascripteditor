@@ -1,0 +1,28 @@
+#labels Featured,Phase-Support,Phase-Requirements
+It is javascript editor. Easily develop the javascript Editor
+
+= Introduction =
+
+
+
+
+= Details =
+
+•	Syntax Highlight
+•	Line Numbering
+•	Folding
+•	Intelligence
+•	Code snippets
+•	Undo/Redo
+•	Quick Find
+•	Find & Replace
+•	Open, Save, print script file
+•	Cut, Copy and Paste
+•	GoTo Line
+•	Make comments
+•	Tool strip
+•	Keyboards Shortcuts
+•	Autofocus to Intellisense partial match word
+•	Customize the syntax color
+•	Drag and Drop open
+•	It also developed as separate setup file
