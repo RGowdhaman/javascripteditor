@@ -1,0 +1,5 @@
+#labels Featured
+
+
+It has to generate the javascript easily. It looks like an ecllipse editor with debugging features.
+
